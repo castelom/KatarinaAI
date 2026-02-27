@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KatarinaAI.Agent.API/KatarinaAI.Agent.API.csproj" />
+  <Project Path="KatarinaAI.Agent.Application/KatarinaAI.Agent.Application.csproj" />
+  <Project Path="KatarinaAI.Agent.Domain/KatarinaAI.Agent.Domain.csproj" />
+  <Project Path="KatarinaAI.Agent.Infrastructure/KatarinaAI.Agent.Infrastructure.csproj" />
+</Solution>
