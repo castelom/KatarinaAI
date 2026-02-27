@@ -1,4 +1,4 @@
-﻿namespace KatarinaAI.Agent.Infrastructure.Configuration
+﻿namespace KatarinaAI.Agent.Infrastructure.Configuration.Options
 {
     public class GeminiOptions
     {

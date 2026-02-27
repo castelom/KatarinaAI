@@ -3,4 +3,5 @@
   <Project Path="KatarinaAI.Agent.Application/KatarinaAI.Agent.Application.csproj" />
   <Project Path="KatarinaAI.Agent.Domain/KatarinaAI.Agent.Domain.csproj" />
   <Project Path="KatarinaAI.Agent.Infrastructure/KatarinaAI.Agent.Infrastructure.csproj" />
+  <Project Path="KatarinaAI.Agent.Tests.Integration/KatarinaAI.Agent.Tests.Integration.csproj" />
 </Solution>

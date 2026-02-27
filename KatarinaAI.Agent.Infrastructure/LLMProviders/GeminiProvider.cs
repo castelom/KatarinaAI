@@ -2,7 +2,7 @@
 using KatarinaAI.Agent.Application.Interfaces;
 using KatarinaAI.Agent.Application.Requests;
 using KatarinaAI.Agent.Application.Responses;
-using KatarinaAI.Agent.Infrastructure.Configuration;
+using KatarinaAI.Agent.Infrastructure.Configuration.Options;
 using Microsoft.Extensions.Options;
 
 namespace KatarinaAI.Agent.Infrastructure.LLMProviders

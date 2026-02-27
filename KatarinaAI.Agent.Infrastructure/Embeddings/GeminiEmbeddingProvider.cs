@@ -15,7 +15,7 @@ namespace KatarinaAI.Agent.Infrastructure.Embeddings
         public async Task<List<float>> GenerateEmbeddingAsync(string text)
         {
             var response = await _client.Models.EmbedContentAsync(
-                model: "text-embedding-004",
+                model: "gemini-embedding-001",
                 contents: text);
 
             var embeddings = response?.Embeddings;

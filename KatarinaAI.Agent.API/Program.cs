@@ -2,6 +2,7 @@ using Google.GenAI;
 using KatarinaAI.Agent.Application.Interfaces;
 using KatarinaAI.Agent.Application.UserCases;
 using KatarinaAI.Agent.Infrastructure.Configuration;
+using KatarinaAI.Agent.Infrastructure.Configuration.Options;
 using KatarinaAI.Agent.Infrastructure.Embeddings;
 using KatarinaAI.Agent.Infrastructure.LLMProviders;
 using KatarinaAI.Agent.Infrastructure.VectorStore;
